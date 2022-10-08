@@ -31,5 +31,5 @@
 #### Team Members 
 - `'Layth Zubaidi: lhassanz'`
 - `'Piyush Jadhav: pjdhav5510'`
-- `'Naseer Mohieddin: Nmohieddin'`
+- `'Nasser Mohieddin: nmohieddin'`
 - `'Andrea Yacopi: AndreaY-BDA'`
