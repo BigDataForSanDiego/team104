@@ -28,4 +28,4 @@
 
 #### Team Coordinator GitHub Username: `Dylan Mather: matherdy`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members `'Layth Zubaidi: lhassanz'`
