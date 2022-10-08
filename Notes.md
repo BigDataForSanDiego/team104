@@ -17,3 +17,5 @@
 # Meet our client
 
 ![alt text](https://user-images.githubusercontent.com/89554353/194727027-29977696-3f26-4b12-a72c-b1720f0445b6.png)
+
+These people have full schedules so they want to make the most out of their time and spend the least amout of time waiting in a waiting room
