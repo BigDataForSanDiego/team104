@@ -5,7 +5,7 @@
 #### Team Name: BDA Group 9    
   
 #### Your team’s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### We want to build an app that will allow a user to take a photograph of a rash/pimple/bug bite and be able to identify it within a shown likelyhood, then recommended a clinic or healthcare professional to further diagnose and treat their condition.  This will be paired with a an application that will provide recommendations of clinics for patients based off a number of parameters (e.g.wait time, clinic rating, insurance provider)
 
 
 #### A visual
@@ -26,6 +26,6 @@
 - [X] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `Dylan Mather: matherdy`
 
 #### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
