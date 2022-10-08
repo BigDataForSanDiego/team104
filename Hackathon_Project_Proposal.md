@@ -11,6 +11,7 @@
 #### A visual
 ![alt text](https://user-images.githubusercontent.com/89554353/194730899-2fc96a36-ac87-4171-ad92-caa32adbd404.png)
 
+![alt-text](https://user-images.githubusercontent.com/112354938/194730918-54715705-0d8d-4347-add3-76273ac16c0a.png)
 
 
 #### Hackathon Theme(s) (check a box(es))
@@ -22,9 +23,13 @@
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.
 - [X] Health Disparities
 > What is the role of big data and analytics in addressing health disparities among vulnerable and minority populations in San Diego County.
-- [X] Privacy and Security
+- [ ] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
 #### Team Coordinator GitHub Username: `Dylan Mather: matherdy`
 
-#### Team Members `'Layth Zubaidi: lhassanz'`
+#### Team Members 
+- `'Layth Zubaidi: lhassanz'`
+- `'Piyush Jadhav: pjdhav5510'`
+- `'Naseer Mohieddin: Nmohieddin'`
+- `'Andrea Yacopi: AndreaY-BDA'`
